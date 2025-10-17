@@ -1,1 +1,1 @@
-GitHub repository for B1 Programming module @HTW
+GitHub repository for B1 Programming for CsB module @HTW
