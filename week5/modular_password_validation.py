@@ -38,8 +38,7 @@ encouraging_messages = [
     "You're capable, resilient, and growing stronger every day.",
     "Challenges are opportunities in disguise.",
     "You have every reason to be proud of yourself.",
-    "Keep your head up—better days are ahead."
-]
+    "Keep your head up—better days are ahead."]
 def get_random_encouragement():
     return random.choice(encouraging_messages)
 password = input("Please rype in a password to validate: ")
