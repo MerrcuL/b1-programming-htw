@@ -45,7 +45,7 @@ def get_random_encouragement():
     return random.choice(encouraging_messages)
 password = input("Please rype in a password to validate: ")
 checks, is_valid = validate_password(password)
-print("Password Validation Results:")
+print("\nPassword Validation Results:")
 for check, passed in checks.items():
     status = "Met" if passed else "Not met"
     print(f"{check} - {status}")
