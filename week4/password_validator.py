@@ -26,4 +26,5 @@ def is_valid_password(password):
 
 for password in passwords:
     is_valid_password(password)
-print(f"Password validation complete! {stats[1]} valid, {stats[0]} invalid passwords.")
+    
+print(f"Password validation complete! {stats[1]} compliant, {stats[0]} non-compliant passwords.")
