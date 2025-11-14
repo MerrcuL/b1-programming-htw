@@ -1,4 +1,3 @@
-import string
 import random
 
 def check_min_length(password, min_length=8):
