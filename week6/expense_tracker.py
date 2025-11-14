@@ -1,7 +1,16 @@
 expense_records = []
 category_totals = {}
 unique_categories = set()
-overall_stats = {"total_expense": 0, "average_expense": 0, "highest_expense": 0, "lowest_expense": 0, "highest_expense_category": None, "lowest_expense_category": None, "highest_expense_date": None, "lowest_expense_date": None}
+overall_stats = {
+    "total_expense": 0, 
+    "average_expense": 0,
+    "highest_expense": 0, 
+    "lowest_expense": 0, 
+    "highest_expense_category": None, 
+    "lowest_expense_category": None, 
+    "highest_expense_date": None, 
+    "lowest_expense_date": None
+    }
 
 num_records = int(input("How many expense records would you like to enter? Enter a number: "))
 
