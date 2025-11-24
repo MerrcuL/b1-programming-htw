@@ -1,0 +1,6 @@
+2025-11-24 19:34:01,643 | INFO | Initiating audit for: week7/Server Log Analyzer/server.log
+2025-11-24 19:34:01,643 | WARNING | Access Forbidden: 192.168.1.102 attempted -> /admin
+2025-11-24 19:34:01,643 | INFO | Audit finished. Total records: 5
+2025-11-24 19:34:01,646 | INFO | Report generated: summary_report.txt
+2025-11-24 19:34:01,646 | INFO | Report generated: security_incidents.txt
+2025-11-24 19:34:01,646 | INFO | Report generated: error_log.txt

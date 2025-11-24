@@ -1,0 +1,4 @@
+2025-11-24 19:30:33,611 | WARNING | Row 4: Malformed data structure, skipping.
+2025-11-24 19:30:33,613 | ERROR | Row 5: value interpretation error - could not convert string to float: 'OneMillion'
+2025-11-24 19:30:33,614 | INFO | Job finished. 4 items processed successfully.
+2025-11-24 19:30:59,750 | INFO | Job finished. 5 items processed successfully.
