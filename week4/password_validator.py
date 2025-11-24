@@ -1,6 +1,7 @@
-passwords = [ "Pass123",
-"SecurePassword1", "weak",
-"MyP@ssw0rd", "NOLOWER123"]
+passwords = [ 
+    "Pass123",
+    "SecurePassword1", "weak",
+    "MyP@ssw0rd", "NOLOWER123"]
 
 stats = [0, 0]
 

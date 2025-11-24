@@ -1,10 +1,11 @@
 login_attempts = [
-("alice", "success"),
-("bob", "failed"),
-("bob", "failed"),
-("charlie", "success"),
-("bob", "failed"),
-("alice", "failed")]
+    ("alice", "success"),
+    ("bob", "failed"),
+    ("bob", "failed"),
+    ("charlie", "success"),
+    ("bob", "failed"),
+    ("alice", "failed")]
+
 
 failed_attempts = {}
 
