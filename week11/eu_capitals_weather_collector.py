@@ -131,7 +131,7 @@ def collect_weather_data():
         time.sleep(0.6)
 
     # Write to JSON file
-    output_filename = "eu_weather_data.json"
+    output_filename = "week11/eu_weather_data.json"
     try:
         with open(output_filename, "w", encoding="utf-8") as f:
             json.dump(results, f, indent=4, ensure_ascii=False)
